@@ -1,0 +1,323 @@
+<root>
+  <keyframe frameVal="0">
+    <joint id="0">
+      <transform x="0.44" y="-2.95" z="0.35" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="1">
+      <transform x="-4.42" y="0" z="12.42" />
+      <rotation x="0.03573815" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="2">
+      <transform x="0" y="0" z="4.470001" />
+      <rotation x="0.04060665" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="3">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.07258406" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="4">
+      <transform x="0.06" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="5">
+      <transform x="-2.73" y="0" z="1.22" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="6">
+      <transform x="-4.08" y="0" z="3.21" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="7">
+      <transform x="-1.65" y="0" z="4.07" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="8">
+      <transform x="-0.6300001" y="0" z="3.57" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="9">
+      <transform x="-0.7" y="0" z="13.11" />
+      <rotation x="0.04835145" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="10">
+      <transform x="0" y="0" z="4.470002" />
+      <rotation x="0.06305648" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="11">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.0581245" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="12">
+      <transform x="0" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="13">
+      <transform x="2.6" y="0" z="12.32" />
+      <rotation x="0.04677823" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="14">
+      <transform x="0" y="0" z="4.470001" />
+      <rotation x="0.08488779" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="15">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.08983218" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="16">
+      <transform x="0" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="17">
+      <transform x="4.78" y="0" z="10.5" />
+      <rotation x="0.03077419" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="18">
+      <transform x="0" y="0" z="4.470001" />
+      <rotation x="0.04518359" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="19">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.06907764" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="20">
+      <transform x="0" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+  </keyframe>
+  <keyframe frameVal="1">
+    <joint id="0">
+      <transform x="0.82" y="-2.95" z="0.07" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="1">
+      <transform x="-4.42" y="0" z="12.42" />
+      <rotation x="0.03573815" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="2">
+      <transform x="0" y="0" z="4.470001" />
+      <rotation x="0.04060665" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="3">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.07258406" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="4">
+      <transform x="0.06" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="5">
+      <transform x="-2.73" y="0" z="1.22" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="6">
+      <transform x="-4.08" y="0" z="3.21" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="7">
+      <transform x="-1.65" y="0" z="4.07" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="8">
+      <transform x="-0.6300001" y="0" z="3.57" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="9">
+      <transform x="-0.7" y="0" z="13.11" />
+      <rotation x="0.04835145" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="10">
+      <transform x="0" y="0" z="4.470002" />
+      <rotation x="0.06305648" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="11">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.0581245" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="12">
+      <transform x="0" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="13">
+      <transform x="2.6" y="0" z="12.32" />
+      <rotation x="0.04677823" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="14">
+      <transform x="0" y="0" z="4.470001" />
+      <rotation x="0.08488779" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="15">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.08983218" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="16">
+      <transform x="0" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="17">
+      <transform x="4.78" y="0" z="10.5" />
+      <rotation x="0.03077419" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="18">
+      <transform x="0" y="0" z="4.470001" />
+      <rotation x="0.04518359" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="19">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.06907764" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="20">
+      <transform x="0" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+  </keyframe>
+  <keyframe frameVal="2">
+    <joint id="0">
+      <transform x="1.66" y="-2.95" z="0.44" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="1">
+      <transform x="-4.42" y="0" z="12.42" />
+      <rotation x="0.03573815" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="2">
+      <transform x="0" y="0" z="4.470001" />
+      <rotation x="0.04060665" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="3">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.07258406" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="4">
+      <transform x="0.06" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="5">
+      <transform x="-2.73" y="0" z="1.22" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="6">
+      <transform x="-4.08" y="0" z="3.21" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="7">
+      <transform x="-1.65" y="0" z="4.07" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="8">
+      <transform x="-0.6300001" y="0" z="3.57" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="9">
+      <transform x="-0.7" y="0" z="13.11" />
+      <rotation x="0.04835145" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="10">
+      <transform x="0" y="0" z="4.470002" />
+      <rotation x="0.06305648" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="11">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.0581245" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="12">
+      <transform x="0" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="13">
+      <transform x="2.6" y="0" z="12.32" />
+      <rotation x="0.04677823" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="14">
+      <transform x="0" y="0" z="4.470001" />
+      <rotation x="0.08488779" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="15">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.08983218" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="16">
+      <transform x="0" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="17">
+      <transform x="4.78" y="0" z="10.5" />
+      <rotation x="0.03077419" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="18">
+      <transform x="0" y="0" z="4.470001" />
+      <rotation x="0.04518359" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="19">
+      <transform x="0" y="0" z="4.049999" />
+      <rotation x="0.06907764" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+    <joint id="20">
+      <transform x="0" y="0" z="2.940001" />
+      <rotation x="0" y="0" z="0" />
+      <scale x="1" y="1" z="1" />
+    </joint>
+  </keyframe>
+</root>

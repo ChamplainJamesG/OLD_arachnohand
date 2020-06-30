@@ -1,0 +1,263 @@
+<root>
+  <keyframe num="0">
+    <Root>
+      <transform x="0" y="0" z="-1.17" />
+      <rotation x="0" y="0" z="0.0009135162" />
+      <scale x="1" y="1" z="1" />
+      <Spine1>
+        <transform x="0" y="2" z="0" />
+        <rotation x="0" y="0" z="0" />
+        <scale x="1" y="1" z="1" />
+        <Spine2>
+          <transform x="0" y="2" z="0" />
+          <rotation x="0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <Left_arm_1>
+            <transform x="1.5" y="-1" z="0" />
+            <rotation x="0" y="0" z="0" />
+            <scale x="1" y="1" z="1" />
+            <Left_arm_2>
+              <transform x="1.5" y="-1" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+              <Left_arm_3>
+                <transform x="1.51" y="-1.15" z="0" />
+                <rotation x="0" y="0" z="0" />
+                <scale x="1" y="1" z="1" />
+              </Left_arm_3>
+              <ElbowConstraint>
+                <transform x="0" y="0" z="-1.74" />
+                <rotation x="0" y="0" z="0" />
+                <scale x="1" y="1" z="1" />
+              </ElbowConstraint>
+            </Left_arm_2>
+          </Left_arm_1>
+          <Right_Arm_1>
+            <transform x="-1.5" y="-1" z="0" />
+            <rotation x="0" y="0" z="0" />
+            <scale x="1" y="1" z="1" />
+            <Right_arm_2>
+              <transform x="-1.5" y="-1" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+              <Right_arm_3>
+                <transform x="-1.52" y="-1.19" z="0" />
+                <rotation x="0" y="0" z="0" />
+                <scale x="1" y="1" z="1" />
+              </Right_arm_3>
+            </Right_arm_2>
+          </Right_Arm_1>
+        </Spine2>
+      </Spine1>
+      <Pelvis>
+        <transform x="0" y="0" z="0" />
+        <rotation x="0" y="0" z="0" />
+        <scale x="1" y="1" z="1" />
+        <Right_leg1>
+          <transform x="-1" y="-1" z="0" />
+          <rotation x="0" y="0" z="-0.08677311" />
+          <scale x="1" y="1" z="1" />
+          <Right_Knee>
+            <transform x="0" y="-2" z="0" />
+            <rotation x="-0.05615289" y="-0.009751074" z="8.195639E-08" />
+            <scale x="1" y="1" z="1" />
+            <Right_Foot>
+              <transform x="0" y="-1.87" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+            </Right_Foot>
+          </Right_Knee>
+        </Right_leg1>
+        <Left_leg1>
+          <transform x="1" y="-1" z="0" />
+          <rotation x="0" y="0" z="0.03692726" />
+          <scale x="1" y="1" z="1" />
+          <Left_Knee>
+            <transform x="0" y="-2" z="0" />
+            <rotation x="0.04213149" y="-0.003195391" z="3.725291E-09" />
+            <scale x="1" y="1" z="1" />
+            <Left_Foot>
+              <transform x="0" y="-1.91" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+            </Left_Foot>
+          </Left_Knee>
+        </Left_leg1>
+      </Pelvis>
+    </Root>
+  </keyframe>
+  <keyframe num="1">
+    <Root>
+      <transform x="0" y="0" z="-1.17" />
+      <rotation x="0" y="0" z="0.0009135162" />
+      <scale x="1" y="1" z="1" />
+      <Spine1>
+        <transform x="0" y="2" z="0" />
+        <rotation x="0" y="0" z="0" />
+        <scale x="1" y="1" z="1" />
+        <Spine2>
+          <transform x="0" y="2" z="0" />
+          <rotation x="0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <Left_arm_1>
+            <transform x="1.5" y="-1" z="0" />
+            <rotation x="0" y="0" z="0" />
+            <scale x="1" y="1" z="1" />
+            <Left_arm_2>
+              <transform x="1.5" y="-1" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+              <Left_arm_3>
+                <transform x="1.51" y="-1.15" z="0" />
+                <rotation x="0" y="0" z="0" />
+                <scale x="1" y="1" z="1" />
+              </Left_arm_3>
+              <ElbowConstraint>
+                <transform x="0" y="0" z="-1.74" />
+                <rotation x="0" y="0" z="0" />
+                <scale x="1" y="1" z="1" />
+              </ElbowConstraint>
+            </Left_arm_2>
+          </Left_arm_1>
+          <Right_Arm_1>
+            <transform x="-1.5" y="-1" z="0" />
+            <rotation x="0" y="0" z="0" />
+            <scale x="1" y="1" z="1" />
+            <Right_arm_2>
+              <transform x="-1.5" y="-1" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+              <Right_arm_3>
+                <transform x="-1.52" y="-1.19" z="0" />
+                <rotation x="0" y="0" z="0" />
+                <scale x="1" y="1" z="1" />
+              </Right_arm_3>
+            </Right_arm_2>
+          </Right_Arm_1>
+        </Spine2>
+      </Spine1>
+      <Pelvis>
+        <transform x="0" y="0" z="0" />
+        <rotation x="0" y="0" z="0" />
+        <scale x="1" y="1" z="1" />
+        <Right_leg1>
+          <transform x="-1" y="-1" z="0" />
+          <rotation x="0" y="0" z="-0.1979852" />
+          <scale x="1" y="1" z="1" />
+          <Right_Knee>
+            <transform x="0" y="-2" z="0" />
+            <rotation x="-0.054965" y="-0.01506923" z="0.09534688" />
+            <scale x="1" y="1" z="1" />
+            <Right_Foot>
+              <transform x="0" y="-1.87" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+            </Right_Foot>
+          </Right_Knee>
+        </Right_leg1>
+        <Left_leg1>
+          <transform x="1" y="-1" z="0" />
+          <rotation x="0" y="0" z="0.1032414" />
+          <scale x="1" y="1" z="1" />
+          <Left_Knee>
+            <transform x="0" y="-2" z="0" />
+            <rotation x="0.04159168" y="-0.007443539" z="-0.10113" />
+            <scale x="1" y="1" z="1" />
+            <Left_Foot>
+              <transform x="0" y="-1.91" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+            </Left_Foot>
+          </Left_Knee>
+        </Left_leg1>
+      </Pelvis>
+    </Root>
+  </keyframe>
+  <keyframe num="2">
+    <Root>
+      <transform x="0" y="0" z="-1.17" />
+      <rotation x="0" y="0" z="0.0009135162" />
+      <scale x="1" y="1" z="1" />
+      <Spine1>
+        <transform x="0" y="2" z="0" />
+        <rotation x="0" y="0" z="0" />
+        <scale x="1" y="1" z="1" />
+        <Spine2>
+          <transform x="0" y="2" z="0" />
+          <rotation x="0" y="0" z="0" />
+          <scale x="1" y="1" z="1" />
+          <Left_arm_1>
+            <transform x="1.5" y="-1" z="0" />
+            <rotation x="0" y="0" z="0" />
+            <scale x="1" y="1" z="1" />
+            <Left_arm_2>
+              <transform x="1.5" y="-1" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+              <Left_arm_3>
+                <transform x="1.51" y="-1.15" z="0" />
+                <rotation x="0" y="0" z="0" />
+                <scale x="1" y="1" z="1" />
+              </Left_arm_3>
+              <ElbowConstraint>
+                <transform x="0" y="0" z="-1.74" />
+                <rotation x="0" y="0" z="0" />
+                <scale x="1" y="1" z="1" />
+              </ElbowConstraint>
+            </Left_arm_2>
+          </Left_arm_1>
+          <Right_Arm_1>
+            <transform x="-1.5" y="-1" z="0" />
+            <rotation x="0" y="0" z="0" />
+            <scale x="1" y="1" z="1" />
+            <Right_arm_2>
+              <transform x="-1.5" y="-1" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+              <Right_arm_3>
+                <transform x="-1.52" y="-1.19" z="0" />
+                <rotation x="0" y="0" z="0" />
+                <scale x="1" y="1" z="1" />
+              </Right_arm_3>
+            </Right_arm_2>
+          </Right_Arm_1>
+        </Spine2>
+      </Spine1>
+      <Pelvis>
+        <transform x="0" y="0" z="0" />
+        <rotation x="0" y="0" z="0" />
+        <scale x="1" y="1" z="1" />
+        <Right_leg1>
+          <transform x="-1" y="-1" z="0" />
+          <rotation x="0.03634895" y="0.002931004" z="-0.08214061" />
+          <scale x="1" y="1" z="1" />
+          <Right_Knee>
+            <transform x="0" y="-2" z="0" />
+            <rotation x="-0.054965" y="-0.01506923" z="0.09534688" />
+            <scale x="1" y="1" z="1" />
+            <Right_Foot>
+              <transform x="0" y="-1.87" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+            </Right_Foot>
+          </Right_Knee>
+        </Right_leg1>
+        <Left_leg1>
+          <transform x="1" y="-1" z="0" />
+          <rotation x="-0.07071455" y="0.002889595" z="0.03890541" />
+          <scale x="1" y="1" z="1" />
+          <Left_Knee>
+            <transform x="0" y="-2" z="0" />
+            <rotation x="0.04159168" y="-0.007443539" z="-0.10113" />
+            <scale x="1" y="1" z="1" />
+            <Left_Foot>
+              <transform x="0" y="-1.91" z="0" />
+              <rotation x="0" y="0" z="0" />
+              <scale x="1" y="1" z="1" />
+            </Left_Foot>
+          </Left_Knee>
+        </Left_leg1>
+      </Pelvis>
+    </Root>
+  </keyframe>
+</root>
